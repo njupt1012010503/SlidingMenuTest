@@ -2,4 +2,4 @@ SlidingMenuTest
 ===============
 
 SlingMenu项目小结
- ![image]（https://github.com/njupt1012010503/SlidingMenuTest/blob/master/pic/1.png）
+项目详细介绍地址：http://blog.csdn.net/yixiang1989/article/details/39497405
