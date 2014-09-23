@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="@color/tools_box_bg">
+    
+    <TextView 
+        style="@style/shadow_Font"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:textColor="@color/white"
+        android:textStyle="normal"
+        android:text="@string/navigation"
+        android:layout_gravity="center"
+        android:padding="10dp"
+        />
+    
+    <include 
+        android:id="@+id/main_btn_layout"
+        layout="@layout/main_btn_layout"/>
+    
+    <include 
+        android:id="@+id/software_update_btn_layout"
+        layout="@layout/software_update_btn_layout"/>
+    
+    <include 
+        android:id="@+id/comment_back_btn_layout"
+        layout="@layout/comment_back_btn_layout"/>
+    
+    <include 
+        android:id="@+id/about_btn_layout"
+        layout="@layout/about_btn_layout"/>
+	
+</LinearLayout>

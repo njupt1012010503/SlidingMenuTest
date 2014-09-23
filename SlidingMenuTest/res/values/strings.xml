@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SlidingMenuText</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="empty"></string>
+    <string name="main">主页</string>
+    <string name="software_update">软件更新</string>
+    <string name="comment_back">意见反馈</string>
+    <string name="about">关于我们</string>
+	<string name="navigation">导航栏</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="text_white_shadow_color">#ff5a9487</color>
+    <color name="white">#ffffffff</color>
+    <color name="grey">#ffdddddd</color>
+    <color name="tools_box_bg">#ff333332</color>
+    <color name="red">#ff0000</color>
+    <color name="black">#ff000000</color>
+    <color name="green">#00ff00</color>
+    <color name="blue">#0000ff</color>
+    <color name="yellow">#00ffff</color>
+    <color name="title_bg">#cde6e8</color>
+    <color name="title_color">#307a97</color>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/slidingmenu_menu_btn_height"
+    android:background="@drawable/slidingmenu_btn_selector" >
+
+    <ImageView 
+        style="@style/menu_pic_style"
+        android:contentDescription="@string/empty"
+        android:src="@drawable/about"/>
+    
+    <TextView 
+        style="@style/menu_text_style"
+        android:text="@string/about"/>
+
+</RelativeLayout>
